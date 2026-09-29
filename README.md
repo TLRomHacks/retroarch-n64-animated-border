@@ -1,7 +1,7 @@
 # N64 animated border for RetroArch
 
 A Nintendo 64 themed overlay with animated controller buttons, a moving analog
-stick, and a two-page menu for RetroArch controls. The alternate version keeps
+stick, and a two-page menu for RetroArch controls. The alternate 'no controller' version keeps
 the border and utility menu without the controller artwork or touch targets.
 
 ## Download
