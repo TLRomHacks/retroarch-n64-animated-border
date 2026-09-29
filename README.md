@@ -6,16 +6,11 @@ the border and utility menu without the controller artwork or touch targets.
 
 ## Download
 
-| Package | Included preview |
-| --- | --- |
-| [Standard overlay](n64_animated_border.zip) | `overlay-preview.html` |
-| [No-controller overlay](n64_animated_border_no_controller.zip) | `overlay-preview-no-controller.html` |
-
 Download and extract the desired ZIP. Load its CFG in RetroArch, keeping
 `img/runtime/` beside it. Open the included HTML locally to try the preview.
 The preview simulates utility actions; the CFG executes them in RetroArch.
 
-See [setup and controller mapping](retroarch-setup.md) for overlay settings and
+See retroarch-setup.md for overlay settings and
 feature requirements. Each ZIP also includes setup notes for its variant.
 
 ## Controls
