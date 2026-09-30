@@ -22,7 +22,7 @@ feature requirements. Each ZIP also includes setup notes for its variant.
   rewind, fast-forward, slow motion, screenshots, recording, volume, mute,
   fullscreen, FPS, shaders, RetroArch's menu, and Close Content.
 
-Button feedback is momentary. Features such as rewind, recording and save states
+Features such as rewind, recording and save states
 depend on the core and RetroArch configuration. The standard preset uses a common
 N64 RetroPad mapping; it does not automatically follow custom core remaps.
 
