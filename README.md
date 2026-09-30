@@ -26,7 +26,8 @@ Button feedback is momentary. Features such as rewind, recording and save states
 depend on the core and RetroArch configuration. The standard preset uses a common
 N64 RetroPad mapping; it does not automatically follow custom core remaps.
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ff9f9ab2-2e4e-4419-985b-62e517a41940" />
+- <img width="1280" height="720" alt="preview-screenshot" src="https://github.com/user-attachments/assets/95ec44ce-43cd-4f1a-bf23-44612eb6ef6a" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3db2b423-5c4b-4d32-8066-a9aa25770784" />
+- <img width="1920" height="1080" alt="no-controller-screenshot" src="https://github.com/user-attachments/assets/62656450-f20b-4fa0-9126-613b17ef33b7" />
+
 
